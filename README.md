@@ -3,6 +3,8 @@ RCCの新入生歓迎会やWelcomeゼミで使用したシューティングゲ�
 
 本プログラムでは影響マップに基づいてプログラム自身がシューティングゲームを攻略します。このとき影響マップは可視化されます。
 
+![shooting_shinkan_pic](https://github.com/fukada6280/Shooting_shinkan/assets/55773950/4154f88f-f739-4e20-9ffa-2fc8052e252c)
+
 ### 要件
 Processing 3.5.4
 
